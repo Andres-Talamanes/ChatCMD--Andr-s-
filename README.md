@@ -24,15 +24,16 @@ Este programa implementa un servidor y un cliente de socket en Python que permit
 
 Abre una terminal y ejecuta el servidor con el siguiente comando:
 
-```bash
+```
 python3 server-socket.py
-
+```
 ### Paso 3: Iniciar el Cliente
 
 Abre otra terminal y ejecuta el cliente con el siguiente comando:
 
-```bash
+```
 python3 client-socket.py
+```
 
 ### Paso 4: Usar el Cliente
 En la terminal del cliente, puedes ingresar los siguientes comandos:
@@ -41,5 +42,5 @@ lsFiles: Listar los archivos disponibles en el servidor.
 get archivo.txt: Descargar un archivo específico (reemplaza archivo.txt con el nombre del archivo que deseas descargar).
 salir: Cerrar el cliente.
 
-## Autor
+# Autor
 Este programa fue desarrollado por Andrés Manuel Hernández Talamantes
